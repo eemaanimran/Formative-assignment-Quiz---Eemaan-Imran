@@ -22,7 +22,7 @@ def checkAnswers(questions):
             print("Correct, you earned a point!")
             score += 1
         else:
-            print("Incorrect, no point receieved!")
+            print("Incorrect, no point received!")
     
     return score
 
